@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, my name is Kersten. I'm a software developer & maker from Berlin/Germany.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This is my website. I blog [here]()
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you want to get into contact with me, just ping me on [twitter](https://twitter.com/kersten_broich) or shoot me an email kersten dot broich at gmail.com
+
+Looking forward hearing from you!

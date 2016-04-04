@@ -49,6 +49,25 @@ $on-laptop:        800px;
 ;
 
 div.titleImage {
-  margin: auto;
-  text-align: center;
+  // margin: auto;
+  // text-align: center;
+}
+
+.site-header {
+  border-top: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.post-title {
+  font-size: 34px;
+}
+
+.post-content h2 {
+  font-size: 22px;
+}
+
+.footer-col-3 {
+  text-align: right;
 }

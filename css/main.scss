@@ -75,3 +75,15 @@ div.titleImage {
 h3 {
   margin-top: 30px;
 }
+
+img.alignleft {
+  position: relative;
+  float: left;
+  padding-right: 10px;
+}
+
+span.footnote {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 80%;
+}

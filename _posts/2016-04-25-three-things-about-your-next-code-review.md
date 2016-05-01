@@ -3,9 +3,9 @@ layout: post
 title: 3 Things about your next code review
 ---
 
-When you’re lucky enough to work in a team with talented developers you should establish something very useful: Code Reviews.
+In case you’re lucky enough to work in a team with smart developers, you should establish something super useful: Code reviews.
 
-When reviewing your co-workers code please try to keep in mind:
+When reviewing your co-worker's code please try to keep in mind:
 
 1. Understand motivation
 2. Use proper wording
@@ -13,7 +13,7 @@ When reviewing your co-workers code please try to keep in mind:
 
 ## Understand motivation
 
-I know you like to assume that you have great ideas and you probably **HAVE** a lot of good ideas. But please don’t think of your solution as the only way to do something. There’s always more than one way. Please, when reviewing your code, keep in mind that your co-worker has the right to choose any path he wants as long as it conforms to your coding style guide. It’s not your job, enforcing your way of thinking. It’s your task to compare both of your ideas and evaluate significant differences. If you think that your solution is better, provide evidence by benchmarking your suggestions. Once you are sure about your arguments approach your co-worker in a respectful way.
+I know you like to assume that you have great ideas and you probably **HAVE** a lot of good ideas. But please don’t think of your solution as the only way. There’s always more than one way. When reviewing code, keep in mind that your co-worker has the right to choose any path he wants as long as it conforms to your coding style guide. It’s not your job, enforcing your way of thinking. It’s your task to compare both of your ideas and compare significant differences. If you think that your solution is better, provide evidence by benchmarking your suggestions. Once you are sure about your arguments, approach your co-worker in a respectful way.
 
 ## Use proper wording
 
